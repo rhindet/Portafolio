@@ -206,6 +206,9 @@ body {
 .red-container .fa-square-envelope {
     color: #bb001b;
 }
+.red-container .fa-github {
+    color: #000;
+}
 
 .favicon {
     font-size: 1.5rem;
@@ -223,6 +226,7 @@ body {
 
 .red-container .fa-brands2{
     font-size: 5rem;
+    text-decoration: none;
     
 }
 
