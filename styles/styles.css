@@ -324,6 +324,19 @@ body {
     transform: translateX(100%);
     cursor: pointer;
     transition: transform .3s ease-in-out;
+
+}
+
+.proyect-title{
+    font-size: 2rem;
+    font-weight: 900;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.proyect-title:hover{
+    border-bottom: 3px solid #fff;
+  
 }
 
 .proyects-item:hover .proyects-hover {
@@ -334,6 +347,7 @@ body {
     margin-top: 10px;
     font-size: 30px;
 }
+
 
 /* testimonios */
 
