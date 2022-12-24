@@ -154,6 +154,7 @@ body {
 .presentation-copy {
     width: 88%;
     margin: 0 auto;
+    font-size: 1.5rem;
 }
 
 .presentation-cta {
@@ -256,6 +257,16 @@ body {
     margin-bottom: 20px;
     line-height: 1.5;
     font-weight: 300;
+    font-size: 1.2rem;
+}
+
+
+.about-paragraph a:hover{
+    color: var(--color-secondary);
+}
+.about-paragraph span {
+    font-size: 1.5rem;
+    font-weight: 900;
 }
 
 /* Proyects */
@@ -502,6 +513,8 @@ body {
         grid-template-columns: 1fr;
     }
 
+    
+
     .about.container {
         padding-top: 30px;
     }
@@ -514,6 +527,8 @@ body {
     .about-texts:last-child {
         grid-row: 3/4;
     }
+
+  
 
     .proyects-grid {
         grid-template-areas:
