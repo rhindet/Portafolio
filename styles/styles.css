@@ -307,6 +307,7 @@ body {
 
 .proyects-item:nth-of-type(5) {
     grid-area: img5;
+   
 }
 
 .proyects-hover {
